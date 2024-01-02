@@ -1,17 +1,4 @@
 # NBA
+## Fetching API
+![WhatsApp Image 2024-01-03 at 00 43 58_cb17eecd](https://github.com/kamalika0363/NBA/assets/59131714/26f78c38-2fbf-4f35-bf14-7c971d794230)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# NBA" 
